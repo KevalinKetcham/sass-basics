@@ -1,5 +1,13 @@
 h1 {
-  text-align: center;
+  color: #808080;
+}
+
+div p {
+  color: #808080;
+}
+
+p {
+  color: #0000ff;
 }
 
 /*# sourceMappingURL=styles.css.map */
